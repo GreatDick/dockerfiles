@@ -2,7 +2,7 @@
 # Dockerfile for ipfm
 #
 
-FROM debian:13
+FROM debian:12
 MAINTAINER EasyPi Software Foundation
 
 RUN set -xe \
